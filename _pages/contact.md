@@ -4,7 +4,7 @@ permalink: /contact/
 title: contact
 description:
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 <i class="fa-solid fa-house"></i> Multiscale in Mechanical and Biological Engineering (M2BE)
