@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-Multiscale in Mechanical and Biological Engineering (M2BE)
+<i class="fa-solid fa-house"></i> Multiscale in Mechanical and Biological Engineering (M2BE)
 
 Mechanical Engineering Department
 
