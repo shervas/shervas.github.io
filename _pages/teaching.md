@@ -1,12 +1,27 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /contact/
+title: contact
+description: 
 nav: true
 nav_order: 6
 ---
+<i class="fa-solid fa-house"></i>
+Multiscale in Mechanical and Biological Engineering [(M2BE)](https://m2be.unizar.es/)
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Mechanical Engineering Department
 
-Organize your courses by years, topics, or universities, however you like!
+University of Zaragoza
+
+C/ Maria de Luna 3, 50018
+
+Zaragoza, Spain
+
+
+<i class="fa-solid fa-envelope"></i> hervas@unizar.es
+
+<i class="ai ai-google-scholar-square ai-lg"></i> [Google Scholar](https://scholar.google.es/citations?user=jpt5wgwAAAAJ&hl=en&oi=ao)
+
+<i class="fa-brands fa-researchgate"></i> [Research Gate](https://www.researchgate.net/profile/Silvia-Hervas-Raluy)
+
+<i class="fa-brands fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/silviahervasraluy/)
