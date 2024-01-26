@@ -16,6 +16,3 @@ University of Zaragoza
 C/ Maria de Luna 3, 50018
 
 Zaragoza, Spain
-
-
-
