@@ -23,4 +23,4 @@ Zaragoza, Spain
 
 <i class="fa-brands fa-researchgate"></i> [Research Gate](https://www.researchgate.net/profile/Silvia-Hervas-Raluy)
 
-<i class="fa-brands fa-linkedin"></i>
+<i class="fa-brands fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/silviahervasraluy/)
