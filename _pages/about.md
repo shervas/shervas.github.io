@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-i! I'm a researcher on computational cancer mechanics.
+Hi! I'm a researcher on computational cancer mechanics.
 
 In the last years, my research has focused on the study of neuroblastoma, the most common and letal extracranial paediatric cancer in childhood. My computational models have helped to understand the key mechanisms involved in the different stages of cancer progression and metastasis. I have developed multiple models at both cellular and tissue-scale that serve as tools for clinical and experimental research. 
 
