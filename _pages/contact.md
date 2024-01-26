@@ -17,7 +17,7 @@ C/ Maria de Luna 3, 50018
 
 Zaragoza, Spain
 
-<i class="fa-solid fa-envelope"></i> hervas@unizar.es
+<i class="fa-solid fa-envelope"></i> hervas
 
 <i class="ai ai-google-scholar-square ai-lg"></i> [Google Scholar](https://scholar.google.es/citations?user=jpt5wgwAAAAJ&hl=en&oi=ao)
 
