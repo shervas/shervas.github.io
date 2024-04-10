@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Now online! "Image-based biomarkers for engineering neuroblastoma patient-specific computational models"
+Now online! <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> "Image-based biomarkers for engineering neuroblastoma patient-specific computational models"
