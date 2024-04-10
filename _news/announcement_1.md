@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Cooming soon: "Image-based biomarkers for engineering neuroblastoma patient-specific computational models"
+Now online! "Image-based biomarkers for engineering neuroblastoma patient-specific computational models"
