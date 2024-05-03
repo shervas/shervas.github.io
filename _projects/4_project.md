@@ -2,7 +2,7 @@
 layout: page
 title: visual 4
 description:
-img: assets/img/confinado.png
+img: assets/img/confinado_low.png
 importance: 4
 category: work
 related_publications: true
