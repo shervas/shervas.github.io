@@ -2,7 +2,7 @@
 layout: page
 title: visual 1
 description: 
-img: assets/img/nb_usa.png
+img: assets/img/nb_usa_low.png
 importance: 1
 category: work
 related_publications: true
