@@ -4,4 +4,6 @@ github_users:
 
 github_repos:
   - shervas/shervas.github.io
+  - shervas/tfm
+  - shervas/confined_migration
   - cborau/im2mesh
