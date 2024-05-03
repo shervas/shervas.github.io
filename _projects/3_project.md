@@ -3,7 +3,7 @@ layout: page
 title: visual 3
 description:
 img: assets/img/tfm.png
-importance: 1
+importance: 3
 category: work
 related_publications: true
 ---
