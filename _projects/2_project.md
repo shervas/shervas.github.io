@@ -2,7 +2,7 @@
 layout: page
 title: visual 2
 description: 
-img: assets/img/i3a.png
+img: assets/img/i3a_low.png
 importance: 2
 category: work
 related_publications: true
