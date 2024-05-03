@@ -1,9 +1,9 @@
 ---
 layout: page
-title: visual 1
+title: visual 2
 description: 
 img: assets/img/i3a.png
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---
