@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-01-18 15:59:00-0400
+date: 2024-07-02 15:59:00-0400
 inline: true
 related_posts: false
 ---
-Now online! <a href="https://link.springer.com/article/10.1007/s00366-024-01964-6" target="_blank">Image-based biomarkers for engineering neuroblastoma patient-specific computational models</a> 
+I'm thrilled to share that I've been awarded as Best Doctoral Thesis in Biomechanics Runner-up by the European Society of Biomechanics!!
