@@ -17,4 +17,4 @@ C/ Maria de Luna 3, 50018
 
 Zaragoza, Spain
 
-<i class="fa-solid fa-envelope"></i> hervas@unizar.es
+<i class="fa-solid fa-envelope"></i> hervas.silvia@gmail.com
