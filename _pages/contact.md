@@ -7,14 +7,14 @@ nav: true
 nav_order: 7
 ---
 
-<i class="fa-solid fa-house"></i> Multiscale in Mechanical and Biological Engineering (M2BE)
+<i class="fa-solid fa-house"></i> Institute for Computational Mechanics (LNM)
 
-Mechanical Engineering Department
+TUM School of Engineering and Design
 
-University of Zaragoza
+Technical University of Munich 
 
-C/ Maria de Luna 3, 50018
-
-Zaragoza, Spain
+Boltzmannstr. 15
+85748 Garching b. München
+Germany
 
 <i class="fa-solid fa-envelope"></i> silviahervasraluy@gmail.com
