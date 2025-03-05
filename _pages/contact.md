@@ -17,4 +17,4 @@ Boltzmannstr. 15
 85748 Garching b. München
 Germany
 
-<i class="fa-solid fa-envelope"></i> silviahervasraluy@gmail.com
+<i class="fa-solid fa-envelope"></i> silvia.hervas@tum.de
