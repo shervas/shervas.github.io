@@ -7,4 +7,4 @@ nav: true
 nav_order: 6
 ---
 
-<iframe src="../assets/pdf/CV.pdf" width="100%" height="1000px"></iframe>
+# <iframe src="../assets/pdf/CV.pdf" width="100%" height="1000px"></iframe>
